@@ -12,3 +12,5 @@ OPTIONS
 Once you open AnyDesk after restoring the backed up config, it should have all of the previously saved connections and histories.
 
 NOTE: THIS IS STILL A WORK IN PROGRESS. Currently, it pulls in the .anydesk/incoming folder - which can contain some larger files from the File Transfer function of AnyDesk. I will eventually figure out how to exclude this in a future version.
+
+MAY NEED TO HOLD CMD WHILE OPENING THIS INITIALLY SINCE IT'S NOT SIGNED. MACOS WILL FLAG IT.
